@@ -1,7 +1,7 @@
 # 🐱 Jonathan Arevalo 
 **`(Data Analyst)`**
 
-I specialize in the world of data, focusing on exploring how data shapes our decisions, solves real-world problems and helps us understand the society we live in.
+I specialize in management of data, focusing on exploring how data shapes our decisions, solves real-world problems and helps us understand the society we live in.
 From cleaning messy datasets to building visualizations that tell the complete true, I’m exploring the art and science of data analytics. I know tools like Python, SQL, and Power BI to bring raw data to life.
 <br />
 Currently making new projects.
